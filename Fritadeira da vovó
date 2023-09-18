@@ -1,0 +1,18 @@
+#incluide <stdio.h>
+
+int main()
+{
+  //declarar celsius e fahrenheit
+  float c, f;
+
+  //leia o valor de celsius
+  scanf("%f", &c);
+
+  //Transformando celcius em fahrenheit
+  f=(c*1.8)+32;
+
+  //Escrevendo os resultados
+  printf("%.0f graus celsius equivale a %.1f graus fahrenheit" c, f);
+
+  return 0;
+}
