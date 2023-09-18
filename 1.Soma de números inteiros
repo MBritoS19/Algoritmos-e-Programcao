@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main()
+{
+	//Declarando as duas entradas e o resultado
+	int x, n1, n2;
+
+	//Lendo os dois valores
+	scanf("%d", &n1);
+	scanf("%d", &n2);
+
+	//Somando os valores
+	X = n1 + n2
+
+	//Demonstrando o resultado
+	printf("X = %d", x);
+
+	return 0;
+}
